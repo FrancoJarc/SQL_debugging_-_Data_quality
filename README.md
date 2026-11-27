@@ -44,8 +44,6 @@ Durante el análisis se estudian:
 ### Data Quality
 
 - Valores nulos.
-- Registros huérfanos.
-- Datos inconsistentes.
 
 ### SQL
 
